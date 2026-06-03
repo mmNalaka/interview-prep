@@ -88,7 +88,7 @@ export default function QCard({ item, idx, accent }) {
 			</div>
 			{open && (
 				<div style={{ padding: "0 14px 14px", background: "rgba(0,0,0,0.3)" }}>
-					<div style={{ paddingTop: 12 }}>
+					<div style={{ paddingTop: 12, textAlign: "left" }}>
 						<div
 							style={{
 								fontFamily: "monospace",

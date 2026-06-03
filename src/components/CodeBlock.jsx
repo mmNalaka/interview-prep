@@ -112,6 +112,7 @@ export default function CodeBlock({ code: codeRaw, lang = "js", accent }) {
 						lineHeight: "inherit",
 						color: "inherit",
 						background: "none",
+						textAlign: "left",
 						padding: 0,
 						borderRadius: 0,
 					}}
