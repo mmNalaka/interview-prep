@@ -48,6 +48,7 @@ export default function QCard({ item, idx, accent }) {
 						fontWeight: 500,
 						color: "rgba(255,255,255,0.88)",
 						lineHeight: 1.4,
+						textAlign: "left",
 					}}
 				>
 					{item.q}
